@@ -1,0 +1,11 @@
+(
+	\name: "NanoKontrol2",
+	\path: "Korg_NanoKontrol2",
+	\summary: "A complete instrument implementation in SuperCollider",
+	\helpdoc: "",
+	\author: "Alexis Caffa",
+	\version: 1.0,
+	\country: "Argentina",
+	\since: "~2018"
+)
+
